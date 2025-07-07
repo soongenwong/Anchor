@@ -11,7 +11,7 @@ import SwiftUI
 struct AnchorApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AnchorView()
         }
     }
 }
